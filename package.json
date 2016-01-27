@@ -1,0 +1,26 @@
+{
+  "name": "unicode-break",
+  "version": "0.0.0",
+  "description": "Break strings by Unicode code points, grapheme clusters, words, sentences and lines.",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AbigailBuccaneer/unicode-break.git"
+  },
+  "keywords": [
+    "unicode"
+  ],
+  "author": "AbigailBuccaneer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AbigailBuccaneer/unicode-break/issues"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.12.0",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}
